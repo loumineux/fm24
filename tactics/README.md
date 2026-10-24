@@ -1,133 +1,122 @@
 # Three tactics
 
-Built for the squad as it stood on 5 March 2040 (see [../squad/players.md](../squad/players.md)). All three share the same principles so the players can learn them together:
+Built for the squad as it stood on 5 March 2040 (see [../squad/players.md](../squad/players.md)) and **set up in the save on 5 March 2040**. This page records exactly what is in the game. Screenshots: [../screenshots/tactics/in-game-2040-03-05](../screenshots/tactics/in-game-2040-03-05).
+
+All three share the same principles:
 
 - **Everything goes through Guillaume and Pequignot.** They are 5★ in every central role, so each tactic gives one a free attacking role and the other a deep playmaking role.
-- **Defenders defend, they don't pass.** The centre-backs have Passing 5 to 8, so none of them is a Ball-Playing Defender and "Play Out of Defence" stays off.
+- **Defenders defend, they don't pass.** The centre-backs have Passing 5 to 8, so none of them is a Ball-Playing Defender and "Play Out of Defence" is off in all three.
 - **Width comes from one specialist winger (Saïd), not full-backs.** The full-backs and wing-backs are all 2★.
 
-| Slot | Name | Formation | Use it when |
-|---|---|---|---|
-| 1 | **Johan's Dream v2** | 3-1-2-3-1 (your current shape) | Default for most league games. Familiarity is already high. |
-| 2 | **The Wall** | 5-3-2 | Protecting a lead, away at Versailles / Monaco / Marseille, European away legs, or when Guillaume or Pequignot is missing |
-| 3 | **All In** | 4-2-3-1 | Chasing a game in the last 25 minutes, or breaking down a deep low block at home |
+## What's in the save
 
-Role names are FM24's. If FM shows a duty as unavailable for a slot, choose the nearest duty and tell me.
+| Slot | Tactic file | Formation | Use it when |
+|---|---|---|---|
+| 3 | **Johans Dream v2** (primary trained tactic) | 3-1-2-3-1 | Default for most league games |
+| 1 | **The Wall 532** | 5-3-2 DM WB | Protecting a lead, away at Versailles / Monaco / Marseille, European away legs |
+| 2 | **All In 4231** | 4-2-3-1 DM AM Wide | Chasing a game in the last 25 minutes, or breaking down a deep low block |
+
+**Saved team selections** (Quick Pick ▸ Manage ▸ pick one to load it):
+
+| Selection | Tactic |
+|---|---|
+| T1 Johans Dream v2 - First XI | Slot 3, full-strength XI |
+| T1 v Lens - Mercier for suspended Pequignot | Slot 3, **loaded now for Lens (A)** |
+| T2 The Wall 532 - First XI | Slot 1 |
+| T3 All In 4231 - First XI | Slot 2 |
+
+FM shares one team selection across all three slots. When you switch slots, players get shuffled into odd positions. **After switching tactic, load that tactic's saved selection.**
+
+**What was replaced and how to get it back:** slot 1 held "4231 Meta" and slot 2 held "3421". Both are still in your tactics folder (Load… in the tactic menu). The original Johan's Dream is saved as **Johans Dream backup 2040-03-05** and is still also in "433 V78".
+
+**Familiarity:** the role changes lowered Johan's Dream's familiarity a little, and The Wall and All In start low. Rehearse them in training before relying on them in a big game.
 
 ---
 
-## Tactic 1: Johan's Dream v2 (3-1-2-3-1)
+## Tactic 1: Johans Dream v2 (3-1-2-3-1), slot 3
 
-Your current tactic, with the roles fitted to the players. You're unbeaten with it, so these are refinements only.
-
-**Mentality:** Positive
+**Mentality:** Attacking. I kept your existing setting: you're unbeaten with it.
 
 | Pos | Player | Role (duty) | Why | Backup |
 |---|---|---|---|---|
 | GK | Boyer | Sweeper Keeper (De) | Rushing Out 15 suits the high line | Touré |
-| DCL | Jehl | Central Defender (De) | Jum 15, Det 16, Tea 16. Passing 7, so not a BPD | Ayyouch |
+| DCR | Buswita | Central Defender (De) | Mar 15, Bra 16, Ldr 17. Passing 8, so not a BPD | Ayyouch |
 | DC | Mrabet | No-Nonsense Centre-Back (Co) | Pos 15, Cnt 16, Pac 14. Covers behind the high line; Passing 5 | Buswita |
-| DCR | Buswita | Central Defender (De) | Mar 15, Bra 16, Ldr 17 | Ayyouch |
+| DCL | Jehl | Central Defender (De) | Jum 15, Det 16, Tea 16. Passing 7 | Ayyouch |
 | DM | Bilger | Ball Winning Midfielder (De) | His best role (3★): Agg 18, Ant 17, Pos 16, WR 16 | Camilleri |
-| MCL | Pequignot | Box To Box Midfielder (Su) | 5★; Fin 20, OtB 20, Sta 20 | Mercier (CM At) |
-| MCR | O'Callaghan | Deep Lying Playmaker (Su) | Pas 15, Tec 16, Cmp 15, Vis 14 | Mercier (DLP Su) |
-| AML | Llor | Inverted Winger (Su) | 2.5★; cuts inside to combine | Ott (Inverted Winger At) |
-| AMC | Guillaume | Attacking Midfielder (At) | 22 goals in this role; keep it | Chaillou (Shadow Striker At) |
-| AMR | Saïd | Winger (Su) | Cro 13, Dri 13, Pac 15, 10 assists. Finishing 6, so not an Inside Forward | Ionescu (Winger Su) |
+| MCR | O'Callaghan | Deep Lying Playmaker (Su) | Pas 15, Tec 16, Cmp 15, Vis 14 | Mercier |
+| MCL | Pequignot | Box To Box Midfielder (Su) | 5★; Fin 20, OtB 20, Sta 20 | **Mercier (starts v Lens)** |
+| AMR | Saïd | Winger (Su) | Cro 13, Dri 13, Pac 15, 10 assists. Finishing 6, so not an Inside Forward | Ionescu |
+| AMC | Guillaume | Attacking Midfielder (At) | 22 goals in this role | Chaillou |
+| AML | Llor | Inverted Winger (Su) | 2.5★; cuts inside to combine | Ott |
 | ST | Perruchon | Deep Lying Forward (Su) | His best role (2.5★). Drops deep so Guillaume can run beyond him | Chaillou |
 
-**In possession**
-- Attacking width: Fairly narrow
-- Approach play: Focus Play Through the Middle (instead of both flanks); Shorter passing; Higher tempo
-- Final third: Work Ball Into Box (instead of Low Crosses: nobody heads well); Run At Defence
-- Remove: Focus Down the Left and Right, Low Crosses, Dribble Less
+**Bench:** Camilleri, Ott, Ionescu, Payen, Wattelet, Lauri (Mercier when Pequignot plays), Chaillou, Akognon, Ayyouch.
 
-**In transition**
-- When the ball is lost: Counter-Press
-- When the ball is won: Counter
-- GK distribution: Distribute to Playmaker (O'Callaghan); Take Short Kicks
-
-**Out of possession** (keep what works)
-- High line of engagement, Higher defensive line, Trigger Press Much More Often, Prevent Short GK Distribution
+**In possession:** Fairly narrow; Pass Into Space; **Focus Play Through the Middle** (was both flanks); Shorter passing; Higher tempo; Low crosses + **Work Ball Into Box**; Run At Defence.
+**Transition:** Counter-Press; Counter; GK Roll It Out + **Distribute to Playmaker**.
+**Out of possession:** unchanged. High press line of engagement, higher defensive line, Trigger Press Much More Often, Prevent Short GK Distribution.
 
 ---
 
-## Tactic 2: The Wall (5-3-2)
+## Tactic 2: The Wall 532 (5-3-2 DM WB), slot 1
 
-For protecting a lead or facing a stronger side. It keeps Guillaume and Pequignot both on the pitch but deeper, and adds a back five so the 2★ full-backs only have to defend.
+For protecting a lead or facing a stronger side. FM's 5-3-2 has one DM behind two central midfielders. That lets Bilger screen while both stars stay on the pitch.
 
-**Mentality:** Cautious (Balanced if you need a goal)
+**Mentality:** Cautious (switch to Balanced if you need a goal)
 
 | Pos | Player | Role (duty) | Why | Backup |
 |---|---|---|---|---|
-| GK | Boyer | Goalkeeper (De) | Safer than Sweeper Keeper in a lower block | Touré |
-| WBL | Camilleri | Wing-Back (De) | Tck 14, Bra 17, Acc 15 | Llor |
-| DCL | Jehl | Central Defender (De) | | Ayyouch |
+| GK | Boyer | Goalkeeper (De) | Safer than Sweeper Keeper in a mid block | Touré |
+| DCR | Buswita | Central Defender (De) | | Ayyouch |
 | DC | Mrabet | No-Nonsense Centre-Back (Co) | | Buswita |
-| DCR | Buswita | Central Defender (De) | | Fernandez |
+| DCL | Jehl | Central Defender (De) | | Ayyouch |
 | WBR | Akognon | Wing-Back (De) | Mar 14, Hea 13, Agg 18 | Wattelet |
-| MCL | Bilger | Ball Winning Midfielder (De) | Screens the back five | Ayyouch |
-| MC | Pequignot | Deep Lying Playmaker (De) | 5★; sets the tempo from deep | O'Callaghan (DLP Su) |
-| MCR | Guillaume | Box To Box Midfielder (Su) | 5★; Sta 20, WR 20. Gets forward to support the two strikers | Mercier (CM Su) |
-| STL | Perruchon | Deep Lying Forward (Su) | Holds the ball up and brings midfielders in | Chaillou |
-| STR | Saïd | Advanced Forward (At) | Natural ST (C); Acc 15, Pac 15 to run in behind on the counter | Ott |
+| WBL | Camilleri | Wing-Back (De) | Tck 14, Bra 17, Acc 15 | Llor |
+| DM | Bilger | Ball Winning Midfielder (De) | Screens the back five | Ayyouch |
+| MCL | Pequignot | Deep Lying Playmaker (De) | 5★; sets the tempo from deep | O'Callaghan |
+| MCR | Guillaume | Box To Box Midfielder (Su) | 5★; Sta 20, WR 20 | Mercier |
+| STCR | Perruchon | Deep Lying Forward (Su) | Holds the ball up | Chaillou |
+| STCL | Saïd | Advanced Forward (At) | Natural ST (C); Acc 15, Pac 15 to run in behind on the counter | Ott |
 
-**In possession**
-- Attacking width: Narrow
-- Approach play: Pass Into Space; Fairly direct passing; Normal tempo
-- Final third: Work Ball Into Box
-- Time wasting: More often (when ahead)
+**Bench:** Mercier, Ott, Ionescu, Payen, Wattelet, O'Callaghan, Chaillou, Llor, Ayyouch.
 
-**In transition**
-- When the ball is lost: Regroup
-- When the ball is won: Counter
-- GK distribution: Distribute to Centre-Backs; Slow Pace Down
-
-**Out of possession**
-- Mid block; Standard defensive line; Trigger Press Less Often
-- Tackling: Stay On Feet (Bilger Agg 18 and Akognon Agg 18 pick up cards)
+**In possession:** Fairly narrow; Pass Into Space; Play Out of Defence **off**; More direct passing; Standard tempo; Work Ball Into Box; Time wasting frequently.
+**Transition:** Regroup; Counter; GK Slow Pace Down, Take Short Kicks, distribute to defenders.
+**Out of possession:** Mid block; Standard defensive line; Trigger Press Less Often; Stay On Feet (Bilger and Akognon both have Agg 18).
 
 ---
 
-## Tactic 3: All In (4-2-3-1)
+## Tactic 3: All In 4231 (4-2-3-1 DM AM Wide), slot 2
 
-For chasing a game or breaking down a deep low block. Saïd stays wide right, Ott comes on for pace and dribbling on the left, and Guillaume moves up as a second striker.
+For chasing a game or breaking down a deep low block. Guillaume becomes a second striker, Pequignot arrives late from deep, and Ott comes in on the left.
 
 **Mentality:** Attacking (Very Attacking for the last 10 minutes)
 
 | Pos | Player | Role (duty) | Why | Backup |
 |---|---|---|---|---|
-| GK | Boyer | Sweeper Keeper (Su) | Quick distribution to restart attacks | Touré |
-| DL | Llor | Wing-Back (At) | Natural D (L) with winger instincts (Cro 12) | Camilleri (Complete Wing-Back Su) |
-| DCL | Jehl | Central Defender (De) | | Buswita |
-| DCR | Mrabet | Central Defender (Co) | Pac 14; covers the space the full-backs leave | Ayyouch |
-| DR | Wattelet | Complete Wing-Back (Su) | Cro 13, Agi 16, Sta 14 | Akognon (Wing-Back Su) |
-| DMCL | O'Callaghan | Deep Lying Playmaker (Su) | Keeps the ball moving | Mercier |
-| DMCR | Pequignot | Segundo Volante (At) | 5★; late runs into the box, Fin 20 | Mercier (CM At) |
-| AML | Ott | Inverted Winger (At) | 2.5★; Dri 10, Agi 15, Tec 16. 16 years old with 4.5★ potential, so good minutes for him | Ionescu |
-| AMC | Guillaume | Shadow Striker (At) | Fin 20, OtB 20: a second striker | Chaillou (Shadow Striker At) |
+| GK | Boyer | Sweeper Keeper (Su) | Quick restarts | Touré |
+| DR | Wattelet | Complete Wing-Back (Su) | Cro 13, Agi 16, Sta 14 | Akognon |
+| DCR | Mrabet | Central Defender (Co) | Pac 14; covers the space the full-backs leave | Buswita |
+| DCL | Jehl | Central Defender (De) | | Ayyouch |
+| DL | Llor | Wing-Back (At) | Natural D (L) with winger instincts | Camilleri |
+| DMCR | Pequignot | Segundo Volante (At) | 5★; late runs into the box, Fin 20 | Mercier |
+| DMCL | O'Callaghan | Deep Lying Playmaker (Su) | Keeps the ball moving | Bilger |
 | AMR | Saïd | Winger (At) | | Ionescu |
-| ST | Perruchon | Advanced Forward (At) | 2.5★; plays on the last defender | Chaillou |
+| AMC | Guillaume | Shadow Striker (At) | Fin 20, OtB 20: a second striker | Chaillou |
+| AML | Ott | Inverted Winger (At) | 2.5★, 4.5★ potential: good minutes for him | Ionescu |
+| ST | Perruchon | Advanced Forward (At) | Plays on the last defender | Chaillou |
 
-**In possession**
-- Attacking width: Wide
-- Approach play: Shorter passing; Much higher tempo; Overlap Left and Right
-- Final third: Work Ball Into Box, Hit Early Crosses (Saïd), Shoot On Sight (Guillaume / Pequignot Lon 20)
+**Bench:** Mercier, Bilger, Ionescu, Payen, Akognon, Buswita, Chaillou, Camilleri, Ayyouch.
 
-**In transition**
-- When the ball is lost: Counter-Press
-- When the ball is won: Counter
-- GK distribution: Distribute Quickly
-
-**Out of possession**
-- High line of engagement; Much higher defensive line; Trigger Press Much More Often
+**In possession:** Wide; Pass Into Space; Overlap Left and Right; Play Out of Defence **off**; Shorter passing; Higher tempo (the maximum at this mentality); **Shoot On Sight + Hit Early Crosses** (FM won't combine these with Work Ball Into Box); Run At Defence.
+**Transition:** Counter-Press; Counter; GK Distribute Quickly, Take Short Kicks.
+**Out of possession:** High press; Much higher defensive line; Trigger Press Much More Often; Get Stuck In; Step Up More; Trap Inside.
 
 ---
 
 ## Next match: RC Lens (A), Pequignot suspended
 
-Use **Tactic 1** with **Mercier at MCL as Central Midfielder (At)**. He's natural at MC, his last game was rated 9.18, and his morale is Exceptional. Enzo Payen is the alternative (CM At 2.5★), but he is joining Valladolid in the summer and his form is 6.68.
+Tactic 1 with **Mercier at MCL** is loaded now ("T1 v Lens" selection). Mercier is natural at MC with Exceptional morale. He keeps the Box To Box (Su) role (2★ for him). For a more attacking Mercier, switch MCL to Central Midfielder (At), his best role at 2.5★.
 
-## Learning the tactics
-
-Familiarity drops when you switch shapes, so rehearse Tactic 2 and Tactic 3 in training before you rely on them. The back three, the DM screen and the Guillaume / Pequignot partnership appear in two of the three tactics, which makes them quicker to learn.
+Perruchon's match sharpness showed red on the selection screen, so watch his condition in the second half.

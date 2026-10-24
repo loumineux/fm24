@@ -26,29 +26,31 @@ Each player's main job and what he does in each tactic. "Bench" means a substitu
 
 ## Every player
 
+As set up in the save on 5 March 2040. Slots: Johans Dream v2 = slot 3, The Wall 532 = slot 1, All In 4231 = slot 2.
+
 | Player | Main role | Tactic 1: Johan's Dream v2 | Tactic 2: The Wall | Tactic 3: All In |
 |---|---|---|---|---|
 | Kyllian Boyer | First-choice GK | GK, Sweeper Keeper (De) | GK, Goalkeeper (De) | GK, Sweeper Keeper (Su) |
 | Allan Jehl | Left-sided CB | DCL, Central Defender (De) | DCL, Central Defender (De) | DCL, Central Defender (De) |
 | Reda Mrabet | Covering CB | DC, No-Nonsense CB (Co) | DC, No-Nonsense CB (Co) | DCR, Central Defender (Co) |
 | Nassor Buswita | Right-sided CB, leader | DCR, Central Defender (De) | DCR, Central Defender (De) | Cover DCL |
-| Rafik Ayyouch | Utility CB / DM | Cover DCL, DCR | Cover DCL, MCL | Cover DCR |
+| Rafik Ayyouch | Utility CB / DM | Cover DCL, DCR | Cover DCL, DM | Cover DCR |
 | Nehemiah Fernandez | Emergency CB (retiring) | Cover | Cover DCR | Cover |
 | Fabian Camilleri | Left wing-back / DM cover | Cover DM | WBL, Wing-Back (De) | Cover DL (Complete Wing-Back Su) |
 | Miquel Llor | Left-sided attacker / full-back | AML, Inverted Winger (Su) | Cover WBL | DL, Wing-Back (At) |
 | Roger Akognon | Right wing-back | Bench | WBR, Wing-Back (De) | Cover DR |
 | Roberto Wattelet | Right full-back | Bench | Cover WBR | DR, Complete Wing-Back (Su) |
-| Laurent Bilger | Defensive screen | DM, Ball Winning Mid (De) | MCL, Ball Winning Mid (De) | Bench (comes on to protect a lead) |
-| Michael O'Callaghan | Deep playmaker | MCR, Deep Lying Playmaker (Su) | Cover MC | DMCL, Deep Lying Playmaker (Su) |
-| Nicolas Pequignot | Star, box-to-box / playmaker | MCL, Box To Box (Su) | MC, Deep Lying Playmaker (De) | DMCR, Segundo Volante (At) |
+| Laurent Bilger | Defensive screen | DM, Ball Winning Mid (De) | DM, Ball Winning Mid (De) | Bench (comes on to protect a lead) |
+| Michael O'Callaghan | Deep playmaker | MCR, Deep Lying Playmaker (Su) | Bench, cover MCL | DMCL, Deep Lying Playmaker (Su) |
+| Nicolas Pequignot | Star, box-to-box / playmaker | MCL, Box To Box (Su) | MCL, Deep Lying Playmaker (De) | DMCR, Segundo Volante (At) |
 | Yannick Guillaume | Star, goalscoring AM | AMC, Attacking Mid (At) | MCR, Box To Box (Su) | AMC, Shadow Striker (At) |
 | David Mercier | First midfield backup | Cover MCL / MCR | Cover MCR | Cover DMCL / DMCR |
 | Enzo Payen | Midfield cover (leaves 1 July) | Cover MCL | Bench | Bench |
-| Ibrahim Saïd | Right winger | AMR, Winger (Su) | STR, Advanced Forward (At) | AMR, Winger (At) |
+| Ibrahim Saïd | Right winger | AMR, Winger (Su) | STCL, Advanced Forward (At) | AMR, Winger (At) |
 | Florin Ionescu | Wide backup | Cover AMR | Bench | Cover AML / AMR |
-| David Ott | Left winger, development | Cover AML (Inverted Winger At) | Cover STR | AML, Inverted Winger (At) |
-| Olivier Perruchon | Main striker | ST, Deep Lying Forward (Su) | STL, Deep Lying Forward (Su) | ST, Advanced Forward (At) |
-| Vincent Chaillou | Backup striker / AMC | Cover ST, AMC (Shadow Striker At) | Cover STL | Cover AMC, ST |
+| David Ott | Left winger, development | Cover AML (Inverted Winger At) | Cover STCL | AML, Inverted Winger (At) |
+| Olivier Perruchon | Main striker | ST, Deep Lying Forward (Su) | STCR, Deep Lying Forward (Su) | ST, Advanced Forward (At) |
+| Vincent Chaillou | Backup striker / AMC | Cover ST, AMC (Shadow Striker At) | Cover STCR | Cover AMC, ST |
 | Agostino Lauri | Fourth-choice AM / ST | Bench | Bench | Bench |
 | Julen | Injured, leaves 1 July | Out | Out | Out |
 | Elian Quesada-Thorn | Injured, retiring | Out | Out | Out |
