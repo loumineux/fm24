@@ -10,24 +10,24 @@ All three share the same principles:
 
 ## Naming
 
-Tactics are **PFC A / B / C**. Selections start with the tactic letter: **A1 to A5** belong to PFC A - Control, **B1** to PFC B - Shut Out, **C1** to PFC C - Chase. Load the selection whose letter matches the tactic you switch to.
+Tactics are **PFC A / B / C**. Selections start with the tactic letter: **A1 to A5** belong to PFC A - Default League, **B1** to PFC B - Protect Lead, **C1** to PFC C - Chase Goal. Load the selection whose letter matches the tactic you switch to.
 
 ## What's in the save
 
 | Slot | Tactic file | Formation | Use it when |
 |---|---|---|---|
-| 3 | **PFC A - Control** (primary trained tactic) | 3-1-2-3-1 | Default for most league games |
-| 1 | **PFC B - Shut Out** | 5-3-2 DM WB | Protecting a lead, away at Versailles / Monaco / Marseille, European away legs |
-| 2 | **PFC C - Chase** | 4-2-3-1 DM AM Wide | Chasing a game in the last 25 minutes, or breaking down a deep low block |
+| 3 | **PFC A - Default League** (primary trained tactic) | 3-1-2-3-1 | Default for most league games |
+| 1 | **PFC B - Protect Lead** | 5-3-2 DM WB | Protecting a lead, away at Versailles / Monaco / Marseille, European away legs |
+| 2 | **PFC C - Chase Goal** | 4-2-3-1 DM AM Wide | Chasing a game in the last 25 minutes, or breaking down a deep low block |
 
 **Saved team selections** (Quick Pick ▸ Manage ▸ pick one to load it):
 
 | Selection | Tactic |
 |---|---|
-| A1 Control - Best XI | Slot 3, full-strength XI |
-| A2 Control - No Pequignot | Slot 3, **loaded now for Lens (A)** |
-| B1 Shut Out - Best XI | Slot 1 |
-| C1 Chase - Best XI | Slot 2 |
+| A1 Default League - Full Strength XI | Slot 3, full-strength XI |
+| A2 Default League - Pequignot Out (Mercier B2B) | Slot 3, **loaded now for Lens (A)** |
+| B1 Protect Lead - Full Strength XI | Slot 1 |
+| C1 Chase Goal - Full Strength XI | Slot 2 |
 
 More scenarios (no Guillaume, cup rotation, youth development) and youth backups: [scenarios.md](scenarios.md). B1 and C1 benches now carry Touré as backup keeper instead of Payen.
 
@@ -39,7 +39,7 @@ FM shares one team selection across all three slots. When you switch slots, play
 
 ---
 
-## Tactic 1: PFC A - Control (3-1-2-3-1), slot 3
+## Tactic 1: PFC A - Default League (3-1-2-3-1), slot 3
 
 **Mentality:** Attacking. I kept your existing setting: you're unbeaten with it.
 
@@ -65,7 +65,7 @@ FM shares one team selection across all three slots. When you switch slots, play
 
 ---
 
-## Tactic 2: PFC B - Shut Out (5-3-2 DM WB), slot 1
+## Tactic 2: PFC B - Protect Lead (5-3-2 DM WB), slot 1
 
 For protecting a lead or facing a stronger side. FM's 5-3-2 has one DM behind two central midfielders. That lets Bilger screen while both stars stay on the pitch.
 
@@ -93,7 +93,7 @@ For protecting a lead or facing a stronger side. FM's 5-3-2 has one DM behind tw
 
 ---
 
-## Tactic 3: PFC C - Chase (4-2-3-1 DM AM Wide), slot 2
+## Tactic 3: PFC C - Chase Goal (4-2-3-1 DM AM Wide), slot 2
 
 For chasing a game or breaking down a deep low block. Guillaume becomes a second striker, Pequignot arrives late from deep, and Ott comes in on the left.
 
@@ -123,6 +123,6 @@ For chasing a game or breaking down a deep low block. Guillaume becomes a second
 
 ## Next match: RC Lens (A), Pequignot suspended
 
-PFC A - Control with **Mercier at MCL** is loaded now ("A2 Control - No Pequignot" selection). Mercier is natural at MC with Exceptional morale. He keeps the Box To Box (Su) role (2★ for him). For a more attacking Mercier, switch MCL to Central Midfielder (At), his best role at 2.5★.
+PFC A - Default League with **Mercier at MCL** is loaded now ("A2 Default League - Pequignot Out (Mercier B2B)" selection). Mercier is natural at MC with Exceptional morale. He keeps the Box To Box (Su) role (2★ for him). For a more attacking Mercier, switch MCL to Central Midfielder (At), his best role at 2.5★.
 
 Perruchon's match sharpness showed red on the selection screen, so watch his condition in the second half.

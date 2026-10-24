@@ -6,17 +6,31 @@ Switching tactic slot shuffles players into odd positions, so **always load the 
 
 Youth and 2nd-team players can be picked now because the squad Filter has **2nd Team** and **U19 Squad** ticked.
 
-## Saved selections
+## Selections per tactic
+
+Every tactic has the same five scenarios. The letter is the tactic, the number is the scenario, so **always load the selection whose letter matches the tactic you're on**.
+
+| # | Scenario | A: Default League (3-1-2-3-1) | B: Protect Lead (5-3-2) | C: Chase Goal (4-2-3-1) |
+|---|---|---|---|---|
+| 1 | Full strength | A1 | B1 | C1 |
+| 2 | Pequignot out | A2: Mercier B2B (**loaded now for Lens**) | B2: O'Callaghan DLP | C2: Mercier Segundo Volante |
+| 3 | Guillaume out | A3: Chaillou AM | B3: Mercier B2B | C3: Chaillou Shadow Striker |
+| 4 | Cup rotation | A4: 8 rested, Touré GK, Daou + Choquet start | B4: 8 rested, Touré GK, Daou + Choquet start | C4: 8 rested, Touré GK, Berenice + Choquet start |
+| 5 | Youth run-out | A5: 7 youths start | B5: 6 youths start (Masson, Daou, Dan, Berenice, Verhaeghe, Choquet) | C5: 7 youths start (Masson, Dan, Daou, Berenice, Hernandez, Ott, Choquet) |
+
+Full names in the game follow the pattern **"B2 Protect Lead - Pequignot Out (O'Callaghan DLP)"**: letter + number, tactic, scenario, then the key change in brackets.
+
+## Detail: A selections
 
 | Selection | Tactic (slot) | When to use it |
 |---|---|---|
-| **A1 Control - Best XI** | PFC A - Control (3) | Normal league game, everyone fit |
-| **A2 Control - No Pequignot** | PFC A - Control (3) | **Loaded now.** Any game Pequignot misses |
-| **A3 Control - No Guillaume** | PFC A - Control (3) | Guillaume injured, suspended or rested |
-| **A4 Control - Rotation** | PFC A - Control (3) | Cup ties and congested weeks: rests 8 regulars, they stay on the bench |
-| **A5 Control - Youth** | PFC A - Control (3) | Title won, dead rubbers, early cup rounds against weak sides |
-| **B1 Shut Out - Best XI** | PFC B - Shut Out (1) | Protecting a lead, big away games |
-| **C1 Chase - Best XI** | PFC C - Chase (2) | Chasing a game |
+| **A1 Default League - Full Strength XI** | PFC A - Default League (3) | Normal league game, everyone fit |
+| **A2 Default League - Pequignot Out (Mercier B2B)** | PFC A - Default League (3) | **Loaded now.** Any game Pequignot misses |
+| **A3 Default League - Guillaume Out (Chaillou AM)** | PFC A - Default League (3) | Guillaume injured, suspended or rested |
+| **A4 Default League - Cup Rotation (8 rested, Toure GK)** | PFC A - Default League (3) | Cup ties and congested weeks: rests 8 regulars, they stay on the bench |
+| **A5 Default League - Youth Run-out (7 youths start)** | PFC A - Default League (3) | Title won, dead rubbers, early cup rounds against weak sides |
+| **B1 Protect Lead - Full Strength XI** | PFC B - Protect Lead (1) | Protecting a lead, big away games |
+| **C1 Chase Goal - Full Strength XI** | PFC C - Chase Goal (2) | Chasing a game |
 
 ### XIs and benches
 
@@ -60,7 +74,7 @@ From the 2nd team and U19 screens (screenshots in [../screenshots/youth](../scre
 
 | Situation | What to do |
 |---|---|
-| **Winning by 1 with 20 min left** | Switch to Shut Out (slot 1), then load "B1 Shut Out - Best XI" and swap in whoever's actually on the pitch. Or stay in Tactic 1 and bring Camilleri on for Llor |
+| **Winning by 1 with 20 min left** | Switch to Shut Out (slot 1), then load "B1 Protect Lead - Full Strength XI" and swap in whoever's actually on the pitch. Or stay in Tactic 1 and bring Camilleri on for Llor |
 | **Losing with 25 min left** | Switch to Chase (slot 2). Bring on Ott and Chaillou |
 | **Red card, defender** | Take off an AM (Llor or Saïd), bring on Ayyouch at CB. Drop to Cautious mentality |
 | **Red card, attacker** | Keep the back three. Move Guillaume up to ST role Advanced Forward, drop mentality to Balanced |
