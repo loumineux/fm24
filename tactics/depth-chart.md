@@ -26,9 +26,9 @@ Each player's main job and what he does in each tactic. "Bench" means a substitu
 
 ## Every player
 
-As set up in the save on 5 March 2040. Slots: Johans Dream v2 = slot 3, The Wall 532 = slot 1, All In 4231 = slot 2.
+As set up in the save on 5 March 2040. Slots: PFC A - Control = slot 3, PFC B - Shut Out = slot 1, PFC C - Chase = slot 2.
 
-| Player | Main role | Tactic 1: Johan's Dream v2 | Tactic 2: The Wall | Tactic 3: All In |
+| Player | Main role | Tactic 1: PFC A - Control | Tactic 2: Shut Out | Tactic 3: Chase |
 |---|---|---|---|---|
 | Kyllian Boyer | First-choice GK | GK, Sweeper Keeper (De) | GK, Goalkeeper (De) | GK, Sweeper Keeper (Su) |
 | Allan Jehl | Left-sided CB | DCL, Central Defender (De) | DCL, Central Defender (De) | DCL, Central Defender (De) |

@@ -8,34 +8,38 @@ All three share the same principles:
 - **Defenders defend, they don't pass.** The centre-backs have Passing 5 to 8, so none of them is a Ball-Playing Defender and "Play Out of Defence" is off in all three.
 - **Width comes from one specialist winger (Saïd), not full-backs.** The full-backs and wing-backs are all 2★.
 
+## Naming
+
+Tactics are **PFC A / B / C**. Selections start with the tactic letter: **A1 to A5** belong to PFC A - Control, **B1** to PFC B - Shut Out, **C1** to PFC C - Chase. Load the selection whose letter matches the tactic you switch to.
+
 ## What's in the save
 
 | Slot | Tactic file | Formation | Use it when |
 |---|---|---|---|
-| 3 | **Johans Dream v2** (primary trained tactic) | 3-1-2-3-1 | Default for most league games |
-| 1 | **The Wall 532** | 5-3-2 DM WB | Protecting a lead, away at Versailles / Monaco / Marseille, European away legs |
-| 2 | **All In 4231** | 4-2-3-1 DM AM Wide | Chasing a game in the last 25 minutes, or breaking down a deep low block |
+| 3 | **PFC A - Control** (primary trained tactic) | 3-1-2-3-1 | Default for most league games |
+| 1 | **PFC B - Shut Out** | 5-3-2 DM WB | Protecting a lead, away at Versailles / Monaco / Marseille, European away legs |
+| 2 | **PFC C - Chase** | 4-2-3-1 DM AM Wide | Chasing a game in the last 25 minutes, or breaking down a deep low block |
 
 **Saved team selections** (Quick Pick ▸ Manage ▸ pick one to load it):
 
 | Selection | Tactic |
 |---|---|
-| T1 Johans Dream v2 - First XI | Slot 3, full-strength XI |
-| T1 v Lens - Mercier for suspended Pequignot | Slot 3, **loaded now for Lens (A)** |
-| T2 The Wall 532 - First XI | Slot 1 |
-| T3 All In 4231 - First XI | Slot 2 |
+| A1 Control - Best XI | Slot 3, full-strength XI |
+| A2 Control - No Pequignot | Slot 3, **loaded now for Lens (A)** |
+| B1 Shut Out - Best XI | Slot 1 |
+| C1 Chase - Best XI | Slot 2 |
 
-More scenarios (no Guillaume, cup rotation, youth development) and youth backups: [scenarios.md](scenarios.md). T2 and T3 benches now carry Touré as backup keeper instead of Payen.
+More scenarios (no Guillaume, cup rotation, youth development) and youth backups: [scenarios.md](scenarios.md). B1 and C1 benches now carry Touré as backup keeper instead of Payen.
 
 FM shares one team selection across all three slots. When you switch slots, players get shuffled into odd positions. **After switching tactic, load that tactic's saved selection.**
 
-**What was replaced and how to get it back:** slot 1 held "4231 Meta" and slot 2 held "3421". Both are still in your tactics folder (Load… in the tactic menu). The original Johan's Dream is saved as **Johans Dream backup 2040-03-05** and is still also in "433 V78".
+**What was replaced and how to get it back:** slot 1 held "4231 Meta" and slot 2 held "3421". Both are still in your tactics folder (Load… in the tactic menu). The original Johan's Dream is saved as **ZZ Old - Johans Dream original** and is still also in "433 V78".
 
-**Familiarity:** the role changes lowered Johan's Dream's familiarity a little, and The Wall and All In start low. Rehearse them in training before relying on them in a big game.
+**Familiarity:** the role changes lowered Johan's Dream's familiarity a little, and Shut Out and Chase start low. Rehearse them in training before relying on them in a big game.
 
 ---
 
-## Tactic 1: Johans Dream v2 (3-1-2-3-1), slot 3
+## Tactic 1: PFC A - Control (3-1-2-3-1), slot 3
 
 **Mentality:** Attacking. I kept your existing setting: you're unbeaten with it.
 
@@ -61,7 +65,7 @@ FM shares one team selection across all three slots. When you switch slots, play
 
 ---
 
-## Tactic 2: The Wall 532 (5-3-2 DM WB), slot 1
+## Tactic 2: PFC B - Shut Out (5-3-2 DM WB), slot 1
 
 For protecting a lead or facing a stronger side. FM's 5-3-2 has one DM behind two central midfielders. That lets Bilger screen while both stars stay on the pitch.
 
@@ -89,7 +93,7 @@ For protecting a lead or facing a stronger side. FM's 5-3-2 has one DM behind tw
 
 ---
 
-## Tactic 3: All In 4231 (4-2-3-1 DM AM Wide), slot 2
+## Tactic 3: PFC C - Chase (4-2-3-1 DM AM Wide), slot 2
 
 For chasing a game or breaking down a deep low block. Guillaume becomes a second striker, Pequignot arrives late from deep, and Ott comes in on the left.
 
@@ -119,6 +123,6 @@ For chasing a game or breaking down a deep low block. Guillaume becomes a second
 
 ## Next match: RC Lens (A), Pequignot suspended
 
-Tactic 1 with **Mercier at MCL** is loaded now ("T1 v Lens" selection). Mercier is natural at MC with Exceptional morale. He keeps the Box To Box (Su) role (2★ for him). For a more attacking Mercier, switch MCL to Central Midfielder (At), his best role at 2.5★.
+PFC A - Control with **Mercier at MCL** is loaded now ("A2 Control - No Pequignot" selection). Mercier is natural at MC with Exceptional morale. He keeps the Box To Box (Su) role (2★ for him). For a more attacking Mercier, switch MCL to Central Midfielder (At), his best role at 2.5★.
 
 Perruchon's match sharpness showed red on the selection screen, so watch his condition in the second half.

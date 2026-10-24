@@ -10,13 +10,13 @@ Youth and 2nd-team players can be picked now because the squad Filter has **2nd 
 
 | Selection | Tactic (slot) | When to use it |
 |---|---|---|
-| **T1 Johans Dream v2 - First XI** | Johans Dream v2 (3) | Normal league game, everyone fit |
-| **T1 v Lens - Mercier for suspended Pequignot** | Johans Dream v2 (3) | **Loaded now.** Any game Pequignot misses |
-| **T1 No Guillaume - Chaillou AMC** | Johans Dream v2 (3) | Guillaume injured, suspended or rested |
-| **T1 Cup Rotation - youths Daou Choquet** | Johans Dream v2 (3) | Cup ties and congested weeks: rests 8 regulars, they stay on the bench |
-| **T1 Youth Development - 7 youths start** | Johans Dream v2 (3) | Title won, dead rubbers, early cup rounds against weak sides |
-| **T2 The Wall 532 - First XI** | The Wall 532 (1) | Protecting a lead, big away games |
-| **T3 All In 4231 - First XI** | All In 4231 (2) | Chasing a game |
+| **A1 Control - Best XI** | PFC A - Control (3) | Normal league game, everyone fit |
+| **A2 Control - No Pequignot** | PFC A - Control (3) | **Loaded now.** Any game Pequignot misses |
+| **A3 Control - No Guillaume** | PFC A - Control (3) | Guillaume injured, suspended or rested |
+| **A4 Control - Rotation** | PFC A - Control (3) | Cup ties and congested weeks: rests 8 regulars, they stay on the bench |
+| **A5 Control - Youth** | PFC A - Control (3) | Title won, dead rubbers, early cup rounds against weak sides |
+| **B1 Shut Out - Best XI** | PFC B - Shut Out (1) | Protecting a lead, big away games |
+| **C1 Chase - Best XI** | PFC C - Chase (2) | Chasing a game |
 
 ### XIs and benches
 
@@ -35,7 +35,7 @@ Youth and 2nd-team players can be picked now because the squad Filter has **2nd 
 | ST | Perruchon | Perruchon | Perruchon | **Choquet (20)** | **Choquet (20)** |
 | Bench | Camilleri, Ott, Ionescu, Mercier, Wattelet, **Touré (GK)**, Chaillou, **Choquet**, Ayyouch | Camilleri, Ott, Ionescu, Payen, Wattelet, **Touré (GK)**, Chaillou, **Choquet**, Ayyouch | Camilleri, Ott, Ionescu, Mercier, Wattelet, **Touré (GK)**, **Tsiba Kamba (18)**, **Choquet**, Ayyouch | Bilger, Llor, Saïd, O'Callaghan, Wattelet, Boyer, Guillaume, Perruchon, Mrabet | Bilger, Llor, Saïd, O'Callaghan, Wattelet, Boyer, Guillaume, Perruchon, Mrabet |
 
-T2 and T3 XIs are in [README.md](README.md). Both benches now include **Touré** as backup keeper (Payen dropped out: he leaves on 1 July).
+B1 and C1 XIs are in [README.md](README.md). Both benches now include **Touré** as backup keeper (Payen dropped out: he leaves on 1 July).
 
 ## Youth and reserve players worth using
 
@@ -60,14 +60,14 @@ From the 2nd team and U19 screens (screenshots in [../screenshots/youth](../scre
 
 | Situation | What to do |
 |---|---|
-| **Winning by 1 with 20 min left** | Switch to The Wall (slot 1), then load "T2 The Wall 532 - First XI" and swap in whoever's actually on the pitch. Or stay in Tactic 1 and bring Camilleri on for Llor |
-| **Losing with 25 min left** | Switch to All In (slot 2). Bring on Ott and Chaillou |
+| **Winning by 1 with 20 min left** | Switch to Shut Out (slot 1), then load "B1 Shut Out - Best XI" and swap in whoever's actually on the pitch. Or stay in Tactic 1 and bring Camilleri on for Llor |
+| **Losing with 25 min left** | Switch to Chase (slot 2). Bring on Ott and Chaillou |
 | **Red card, defender** | Take off an AM (Llor or Saïd), bring on Ayyouch at CB. Drop to Cautious mentality |
 | **Red card, attacker** | Keep the back three. Move Guillaume up to ST role Advanced Forward, drop mentality to Balanced |
 | **GK injured** | Touré is on every bench |
 | **Two CBs out** | Ayyouch, then Fernandez (until he retires), then Daou |
 | **Both wide forwards out** | Ott left, Ionescu right. Hernandez as the youth option |
-| **Guillaume AND Pequignot out** | Use The Wall with Mercier (MCL, DLP) and O'Callaghan (MCR, B2B). Don't try to win with flair, keep it tight |
+| **Guillaume AND Pequignot out** | Use Shut Out with Mercier (MCL, DLP) and O'Callaghan (MCR, B2B). Don't try to win with flair, keep it tight |
 | **Heavy fixture run (3 games in 7 days)** | Game 1 First XI, game 2 Cup Rotation, game 3 First XI. Watch condition before each one |
 
 ## Backup chain by position (Tactic 1)
