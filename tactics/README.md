@@ -25,6 +25,8 @@ All three share the same principles:
 | T2 The Wall 532 - First XI | Slot 1 |
 | T3 All In 4231 - First XI | Slot 2 |
 
+More scenarios (no Guillaume, cup rotation, youth development) and youth backups: [scenarios.md](scenarios.md). T2 and T3 benches now carry Touré as backup keeper instead of Payen.
+
 FM shares one team selection across all three slots. When you switch slots, players get shuffled into odd positions. **After switching tactic, load that tactic's saved selection.**
 
 **What was replaced and how to get it back:** slot 1 held "4231 Meta" and slot 2 held "3421". Both are still in your tactics folder (Load… in the tactic menu). The original Johan's Dream is saved as **Johans Dream backup 2040-03-05** and is still also in "433 V78".
